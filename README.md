@@ -1,7 +1,7 @@
 # Intrinsic-Time-Trading
 
 Overview
-This coursework implements and backtests a mean reversion trading strategy based on intrinsic time conversion of tick-by-tick FX data. The strategy was tested on three EUR currency pairs: EUR/GBP, EUR/AUD, EUR/CAD, and EUR/CHF using 2023 M1 data.
+This is a backtest of a mean reversion trading strategy based on intrinsic time conversion of tick-by-tick FX data. The strategy was tested on three EUR currency pairs: EUR/GBP, EUR/AUD, EUR/CAD, and EUR/CHF using 2023 M1 data.
 
 The key takeaway is that the strategy's success is highly dependent on market volatility - achieving a remarkable +66.65% return on EUR/CHF (low volatility) while completely failing on EUR/AUD (high volatility) with a -100% loss.
 
